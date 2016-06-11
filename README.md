@@ -12,7 +12,7 @@
 Via Composer
 
 ``` bash
-$ composer require draperstudio/hasoffers-php-client
+$ composer require draperstudio/hasoffers
 ```
 
 ## Usage
@@ -58,17 +58,17 @@ If you discover any security related issues, please email hello@draperstudio.tec
 
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
 
-[ico-version]: https://img.shields.io/packagist/v/DraperStudio/hasoffers-php-client.svg?style=flat-square
+[ico-version]: https://img.shields.io/packagist/v/DraperStudio/hasoffers.svg?style=flat-square
 [ico-license]: https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square
 [ico-travis]: https://img.shields.io/travis/DraperStudio/HasOffers-PHP-Client/master.svg?style=flat-square
-[ico-scrutinizer]: https://img.shields.io/scrutinizer/coverage/g/DraperStudio/hasoffers-php-client.svg?style=flat-square
-[ico-code-quality]: https://img.shields.io/scrutinizer/g/DraperStudio/hasoffers-php-client.svg?style=flat-square
-[ico-downloads]: https://img.shields.io/packagist/dt/DraperStudio/hasoffers-php-client.svg?style=flat-square
+[ico-scrutinizer]: https://img.shields.io/scrutinizer/coverage/g/DraperStudio/hasoffers.svg?style=flat-square
+[ico-code-quality]: https://img.shields.io/scrutinizer/g/DraperStudio/hasoffers.svg?style=flat-square
+[ico-downloads]: https://img.shields.io/packagist/dt/DraperStudio/hasoffers.svg?style=flat-square
 
-[link-packagist]: https://packagist.org/packages/DraperStudio/hasoffers-php-client
+[link-packagist]: https://packagist.org/packages/DraperStudio/hasoffers
 [link-travis]: https://travis-ci.org/DraperStudio/HasOffers-PHP-Client
-[link-scrutinizer]: https://scrutinizer-ci.com/g/DraperStudio/hasoffers-php-client/code-structure
-[link-code-quality]: https://scrutinizer-ci.com/g/DraperStudio/hasoffers-php-client
-[link-downloads]: https://packagist.org/packages/DraperStudio/hasoffers-php-client
+[link-scrutinizer]: https://scrutinizer-ci.com/g/DraperStudio/hasoffers/code-structure
+[link-code-quality]: https://scrutinizer-ci.com/g/DraperStudio/hasoffers
+[link-downloads]: https://packagist.org/packages/DraperStudio/hasoffers
 [link-author]: https://github.com/DraperStudio
 [link-contributors]: ../../contributors

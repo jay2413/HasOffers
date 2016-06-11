@@ -1,12 +1,12 @@
 {
-    "name": "draperstudio/hasoffers-php-client",
+    "name": "draperstudio/hasoffers",
     "type": "library",
     "description": "A HasOffers Client for PHP",
     "keywords": [
         "draperstudio",
-        "hasoffers-php-client"
+        "hasoffers"
     ],
-    "homepage": "https://github.com/draperstudio/hasoffers-php-client",
+    "homepage": "https://github.com/draperstudio/hasoffers",
     "license": "MIT",
     "authors": [{
         "name": "DraperStudio",
